@@ -1,22 +1,22 @@
-"D:\programming\MK\Projects\Blink\Libraries\STM8S_StdPeriph_Driver\src\stm8s_wwdg.c"
+"D:\programming\MK\Projects\Counter\Libraries\STM8S_StdPeriph_Driver\src\stm8s_wwdg.c"
 -std=c99
 -ferror-limit=100
 -I
-D:\programming\MK\Projects\Blink
+D:\programming\MK\Projects\Counter
 -I
-D:\programming\MK\Projects\Blink\Libraries\STM8S_StdPeriph_Driver\inc
+D:\programming\MK\Projects\Counter\Libraries\STM8S_StdPeriph_Driver\inc
 -I
-D:\programming\MK\Projects\Blink\Libraries\STM8_TouchSensing_Driver\inc
+D:\programming\MK\Projects\Counter\Libraries\STM8_TouchSensing_Driver\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.5\stm8\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.5\stm8\inc\c
 -I
-D:\programming\MK\Projects\Blink
+D:\programming\MK\Projects\Counter
 -I
-D:\programming\MK\Projects\Blink\Libraries\STM8S_StdPeriph_Driver\inc
+D:\programming\MK\Projects\Counter\Libraries\STM8S_StdPeriph_Driver\inc
 -I
-D:\programming\MK\Projects\Blink\Libraries\STM8_TouchSensing_Driver\inc
+D:\programming\MK\Projects\Counter\Libraries\STM8_TouchSensing_Driver\inc
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0
@@ -229,8 +229,8 @@ D:\programming\MK\Projects\Blink\Libraries\STM8_TouchSensing_Driver\inc
 -D__HAS_LOCATED_DECLARATION__=1
 -D__HAS_LOCATED_WITH_INIT__=1
 -D__IAR_COMPILERBASE__=593160
--D__DATE__="Mar 29 2015"
--D__TIME__="21:04:34"
+-D__DATE__="Apr  2 2015"
+-D__TIME__="22:12:08"
 -D__STDC__=1
 -D__STDC_VERSION__=199901L
 -D__STDC_HOSTED__=1
